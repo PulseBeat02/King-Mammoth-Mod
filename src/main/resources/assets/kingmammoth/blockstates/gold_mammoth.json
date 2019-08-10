@@ -1,0 +1,40 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "kingmammoth:gold_mammoth.obj"
+	},
+	"variants": {
+		"normal": [
+			{
+				"textures": {
+					"#Material": "kingmammoth:gold_mammoth.mtl"
+				}
+			}
+		],
+		"facing": {
+			"down": {
+				"model": "kingmammoth:gold_mammoth.obj",
+				"x": 90
+			},
+			"up": {
+				"model": "kingmammoth:gold_mammoth.obj",
+				"x": 270
+			},
+			"north": {
+				"model": "kingmammoth:gold_mammoth.obj"
+			},
+			"south": {
+				"model": "kingmammoth:gold_mammoth.obj",
+				"y": 180
+			},
+			"west": {
+				"model": "kingmammoth:gold_mammoth.obj",
+				"y": 270
+			},
+			"east": {
+				"model": "kingmammoth:gold_mammoth.obj",
+				"y": 90
+			}
+		}
+	}
+}

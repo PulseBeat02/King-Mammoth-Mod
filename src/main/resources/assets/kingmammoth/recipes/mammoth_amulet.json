@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+
+      {
+      
+        "item": "draconicevolution:dragon_heart"
+
+      },
+
+      {
+      
+        "item": "minecraft:nether_star"
+
+      },
+
+      {
+      
+      
+        "item": "botania:gaiaIngot"
+
+      },
+
+      {
+      
+        "item": "twilightforest:hydra_trophy"
+
+      },
+
+      {
+      
+        "item": "Avarita:infinity_helmet"
+
+      },
+
+      {
+      
+        "item": "enderio:darkSteel_helmet"
+
+      },
+
+      {
+      
+        "item": "minecraft:dragon_egg"
+
+      },
+
+      {
+      
+        "item": "minecraft:obsidion"
+
+      },
+
+      {
+      
+        "item": "minecraft:emerald"
+
+      }
+    ]
+  },
+  "result": {
+    "item": "kingmammoth:mammoth_amulet",
+    "count": 1
+  }
+}

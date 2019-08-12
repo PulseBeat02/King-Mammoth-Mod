@@ -14,7 +14,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import pulsebeat_02.kingmammoth.item.crown.CustomCrown;
 
-public class ClientProxy implements IProxy {
+public class ClientProxy implements IProxy<Object> {
 	
 	CustomCrown crown = new CustomCrown();
 

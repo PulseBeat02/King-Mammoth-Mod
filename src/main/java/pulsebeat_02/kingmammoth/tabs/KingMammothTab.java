@@ -19,7 +19,7 @@ public class KingMammothTab extends CreativeTabs {
 	@Override
 	public ItemStack getTabIconItem() {
 		
-		return new ItemStack(ModItems.Mammoth_Sword);
+		return new ItemStack(ModItems.mammoth_sword);
 		
 	}
 

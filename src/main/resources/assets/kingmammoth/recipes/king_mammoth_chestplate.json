@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X#X",
+    "X%X"
+  ],
+  "key": {
+    "X": [
+      {
+        "item": "kingmammoth:mammoth_fur",
+        "data": 0
+      }
+    ],
+   "#": [
+      {
+        "item": "kingmammoth:mammoth_core",
+        "data": 0
+      }
+    ],
+   "%": [
+      {
+        "item": "minecraft:dragon_egg",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "kingmammoth:king_mammoth_chestplate",
+    "count": 1
+  }
+}

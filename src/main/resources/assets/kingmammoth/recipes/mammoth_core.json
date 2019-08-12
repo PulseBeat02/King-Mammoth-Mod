@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X%X",
+    "%#%",
+    "X%X"
+  ],
+  "key": {
+    "X": [
+      {
+        "item": "kingmammoth:mammoth_fur",
+        "data": 0
+      }
+    ],
+   "#": [
+      {
+        "item": "minecraft:beacon",
+        "data": 0
+      }
+    ],
+   "%": [
+      {
+        "item": "minecraft:emerald",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "kingmammoth:mammoth_core",
+    "count": 1
+  }
+}

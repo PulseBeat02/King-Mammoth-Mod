@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X&X",
+    "%#%",
+    "   "
+  ],
+  "key": {
+    "X": [
+      {
+        "item": "kingmammoth:mammoth_fur",
+        "data": 0
+      }
+    ],
+   "#": [
+      {
+        "item": "kingmammoth:mammoth_core",
+        "data": 0
+      }
+    ],
+   "%": [
+      {
+        "item": "minecraft:emerald_block",
+        "data": 0
+      }
+    ],
+   "&": [
+      {
+        "item": "minecraft:gold_block",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "kingmammoth:king_mammoth_crown",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "X#X"
+  ],
+  "key": {
+    "X": [
+      {
+        "item": "kingmammoth:mammoth_fur",
+        "data": 0
+      }
+    ],
+    "#": [
+      {
+        "item": "minecraft:diamond",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "kingmammoth:king_mammoth_boots",
+    "count": 1
+  }
+}

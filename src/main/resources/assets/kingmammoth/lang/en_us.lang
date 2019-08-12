@@ -1,5 +1,14 @@
 # Items
-item.KingMammoth.mammoth_sword.name=Mammoth Sword
+item.kingmammoth.mammoth_sword.name=Mammoth Sword
+item.kingmammoth.king_mammoth_boots.name=King Mammoth Boots
+item.kingmammoth.king_mammoth_leggings.name=King Mammoth Leggings
+item.kingmammoth.king_mammoth_chestplate.name=King Mammoth Chestplate
+item.kingmammoth.king_mammoth_crown.name=King Mammoth Crown
+item.kingmammoth.mammoth_fur.name=Mammoth Fur
+item.kingmammoth.mammoth_core.name=Mammoth Core
 
 # Blocks
-tile.KingMammoth.gold_mammoth.name=Golden Mammoth
+tile.kingmammoth.gold_mammoth.name=Golden Mammoth
+
+#Tabs
+itemGroup.kingmammoth=King Mammoth
